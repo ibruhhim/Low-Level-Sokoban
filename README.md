@@ -107,10 +107,6 @@ You can also customize the appearance of your character by selecting diferent â€
 ![](https://web-api.textin.com/ocr_image/external/0f1c33f8d24003a2.jpg)
 
 
-|  |  |
-| -- | -- |
-
-
 Figure 7: Any boundaries will be stated beside the variable.
 
 ## Troubleshooting
