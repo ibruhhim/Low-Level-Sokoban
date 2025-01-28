@@ -127,7 +127,7 @@ Figure 7: Any boundaries will be stated beside the variable.
 
 • Restart if stuck: If you feel like you’ve made a mistake or are stuck,press R to restart the game instantly.
 
-• Experiment with settings: Adjust the grid size and player skin to suit your preferences or to increase the game’s difculty.
+• Experiment with settings: Adjust the grid size and player skin to suit your preferences or to increase the game’s difficulty.
 
 ## Enjoy the Game!
 
