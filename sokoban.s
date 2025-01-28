@@ -1,4 +1,3 @@
-# Name: Ibrahim Ellahi
 # Description: This assembly program implements a simple Sokoban game. The game involves moving a player 
 # character ('!') on a grid with walls ('+'), boxes ('#'), and target positions ('O'). The player must push
 # the boxes to the target positions to win. The player uses the keys W, A, S, D for movement and R to reset the game.
