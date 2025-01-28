@@ -1,17 +1,5 @@
 # Sokoban RISCV User Guide
-                                                                                    
-                                                                                    
-                                                                      
-                                    ,,                                
- .M"""bgd         `7MM             *MM                                
-,MI    "Y           MM              MM                                
-`MMb.      ,pW"Wq.  MM  ,MP,pW"Wq.  MM,dMMb.   ,6"Yb. `7MMpMMMb.      
-  `YMMNq. 6W'   `Wb MM ;Y 6W'   `Wb MM    `Mb 8)   MM   MM    MM      
-.     `MM 8M     M8 MM;Mm 8M     M8 MM     M8  ,pm9MM   MM    MM      
-Mb     dM YA.   ,A9 MM `MbYA.   ,A9 MM.   ,M9 8M   MM   MM    MM      
-P"Ybmmd"   `Ybmd9'.JMML. YA`Ybmd9'  P^YbmdP'  `Moo9^Yo.JMML  JMML.    
-                                                                      
-                                                                      
+                                                                                                                                              
 
 ## Overview
 
